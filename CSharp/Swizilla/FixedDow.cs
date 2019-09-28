@@ -8,12 +8,15 @@ namespace Swizilla
 {
     class FixedDow
     {
+        static List<String> week = new List<string> { "Mon", "tue", "wed", "thur", "fri", "sat", "sun" };
+
         public static string DayOfWeek(int day)
         {
-            List<String> week = new List<string> { "Mon", "tue", "wed", "thur", "fri", "sat", "sun" };
-            string dow = "Error";
+            //sanity check
+            if (day < 0 || day > 6)
+                return "Get Good";
           
-        return "";
+        return week[day];
             }
     }
 }
