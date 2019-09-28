@@ -1,0 +1,13 @@
+C:\Users\sanja\source\repos\BDS\Swizilla\bin\Debug\Swizilla.exe.config
+C:\Users\sanja\source\repos\BDS\Swizilla\bin\Debug\Swizilla.exe
+C:\Users\sanja\source\repos\BDS\Swizilla\bin\Debug\Swizilla.pdb
+C:\Users\sanja\source\repos\BDS\Swizilla\obj\Debug\Swizilla.csprojAssemblyReference.cache
+C:\Users\sanja\source\repos\BDS\Swizilla\obj\Debug\Swizilla.exe
+C:\Users\sanja\source\repos\BDS\Swizilla\obj\Debug\Swizilla.pdb
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\obj\Debug\Swizilla.csproj.CoreCompileInputs.cache
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\bin\Debug\Swizilla.exe.config
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\bin\Debug\Swizilla.exe
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\bin\Debug\Swizilla.pdb
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\obj\Debug\Swizilla.exe
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\obj\Debug\Swizilla.pdb
+D:\Work\Learning\SWIZILA\CSharp\Swizilla\obj\Debug\Swizilla.csprojAssemblyReference.cache
